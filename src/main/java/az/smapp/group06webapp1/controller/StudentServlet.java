@@ -1,8 +1,6 @@
 package az.smapp.group06webapp1.controller;
-
 import az.smapp.group06webapp1.entity.Student;
 import az.smapp.group06webapp1.service.StudentService;
-
 import java.io.IOException;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
